@@ -1,4 +1,4 @@
-# jira-doc
+# jira-docs
 Documentação em português das soluções atlasian
 
 ## lista por categoria
